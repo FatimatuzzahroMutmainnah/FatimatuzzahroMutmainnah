@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxY3RmNHVtbTNyeDhqY2J3cWc1bDZiYWE4ZzRqYWh5dDY5NDRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I06yCBkUWpOzRPpVLf/giphy.gif"  />
+  <img height="150" src="https://github.com/FatimatuzzahroMutmainnah/images/blob/main/giphy%20(2).GIF?raw=true"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Institute Technology Sepuluh Nopember taking Business Statistics 🧚‍♀️~~<br>This is repository that i have created to showcase my skills, share some of my projects, and track my progress in Data Analytics.<br><br>- 📚 I'm currently learning python and visualization<br>- ⚡Looking for opportunity in Data Analytics</p>
+<p align="left">I'm from Institute Technology Sepuluh Nopember taking Business Statistics 🧚‍♀️~~<br>This is repository that i have created to showcase my skills, share some of my projects, and track my progress in Data Analytics.<br><br>- 📚 I'm currently learning python and visualization<br>- ⚡Looking for opportunity in Data Analytics<br>- 🚀 Visit my portfolio</p>
 
 ###
 
