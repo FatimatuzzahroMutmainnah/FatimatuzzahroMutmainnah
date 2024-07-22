@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Institute Technology Sepuluh Nopember taking Business Statistics 🧚‍♀️~~<br>This is repository that i have created to showcase my skills, share some of my projects, and track my progress in Data Analytics.<br><br>All projects are fully functional and continuously evolving for further enhancements. My GitHub is currently being refined. Thank you for your understanding<br><br>- 📚 I'm currently learning python and visualization<br>- ⚡Looking for opportunity in Data Analytics<br>- 🚀 Visit my portfolio</p>
+<p align="left">I'm from Institute Technology Sepuluh Nopember taking Business Statistics 🧚‍♀️~~<br>This is repository that i have created to showcase my skills, share some of my projects, and track my progress in Data Analytics.<br><br>All projects are fully functional and continuously evolving for further enhancements, while my GitHub is currently being refined. Thank you for your understanding<br><br>- 📚 I'm currently learning python and visualization<br>- ⚡Looking for opportunity in Data Analytics<br>- 🚀 Visit my portfolio</p>
 
 ###
 
